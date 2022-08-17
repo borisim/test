@@ -7,6 +7,4 @@ jobs:
         runs-on: ubuntu-latest
         steps:
           - name: print wdir
-            run: pwd
-                touch test_file.txt
-                mkdir path
+            run: ls
