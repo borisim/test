@@ -8,3 +8,5 @@ jobs:
         steps:
           - name: print wdir
             run: pwd
+                touch test_file.txt
+                mkdir path
